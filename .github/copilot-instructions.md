@@ -28,3 +28,5 @@ The frontend is written using:
 - Use good variable names, avoiding abbreviations and single letter variables
 - Use the casing standard for the language in question (camelCasing for TypeScript, snake_casing for Python, etc.)
 - Use type hints in all languages which support them
+- Every function should have docstrings or the language equivalent
+- Include a comment block at the top of each new file to describe what it does
